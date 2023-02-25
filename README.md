@@ -12,8 +12,9 @@ In the server side, I made this simple dashboard to handle all actions in the we
 ![Dashboard-1](https://user-images.githubusercontent.com/121083063/221342808-fbdecc32-2a95-4a6f-91e0-e504a7da0142.png)
 
 All pages in the nav-bar are worked, 
-![website-2](https://user-images.githubusercontent.com/121083063/221342908-01ad2edc-acdc-41db-834a-b078bfd89e5f.png)
-On every page, you find a button to Add, Edit and Delete the item specify in this page 
+![Dashboard-2](https://user-images.githubusercontent.com/121083063/221342990-4f6e1ccf-336d-40fc-9263-b18c17017d7a.png)
+
+# On every page, you find a button to Add, Edit and Delete the item specify in this page 
 
 
 
