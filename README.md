@@ -14,6 +14,10 @@ In the server side, I made this simple dashboard to handle all actions in the we
 All pages in the nav-bar are worked, 
 ![Dashboard-2](https://user-images.githubusercontent.com/121083063/221342990-4f6e1ccf-336d-40fc-9263-b18c17017d7a.png)
 
+Manage-Order Page
+![Dashboard-3](https://user-images.githubusercontent.com/121083063/221343126-2f015c15-55fc-4cb1-a959-a286675fcaf9.png)
+
+
 # On every page, you find a button to Add, Edit and Delete the item specify in this page 
 
 
